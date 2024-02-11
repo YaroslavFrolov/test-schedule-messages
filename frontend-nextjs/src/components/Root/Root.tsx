@@ -21,7 +21,7 @@ export const Root = () => {
         align="center"
         fontWeight="fontWeightBold"
       >
-        Message Sheduler
+        Message Scheduler
       </Typography>
 
       <br />
